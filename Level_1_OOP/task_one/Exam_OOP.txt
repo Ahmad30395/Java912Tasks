@@ -1,0 +1,88 @@
+Part A – Multiple Choice
+========================
+1 -> b
+2 -> b
+3 -> b
+4 -> c
+5 -> a
+6 -> c
+7 -> b
+8 -> b
+9 -> b
+10 -> b
+11 -> b
+12 -> b
+13 -> b
+14 -> b
+15 -> b
+16 -> a
+17 -> c
+18 -> a
+19 -> b
+20 -> b
+21 -> c
+22 -> b
+23 -> b
+24 -> b
+25 -> b
+26 -> b
+27 -> b
+28 -> a
+29 -> 
+30 -> b
+=========================================
+Part B – True or False
+======================
+31 -> f
+32 -> true
+33 -> true
+34 -> true
+35 -> f
+36 -> true
+37 -> true
+38 -> true
+39 -> f
+40 -> true
+==========================================
+Part C – Short Answer / Code Output
+===================================
+41 ->   Animal makes a sound
+	Dog barks
+
+42 ->   overloading :
+		same signature of method or constructor but different parametes
+
+	overriding  :
+		same method but reimplement it
+
+
+43 ->    3
+	 as ststic share value and make count for class not obj.
+
+
+44 ->    Car car = new Car(){drive()};
+
+
+
+45 ->    can not as methods abstract 
+
+
+  
+46 ->     Parent constructor
+          Child constructor
+
+
+47 ->     private x // x must need setter and getter method or be public
+
+
+
+48 ->     encapsulation used for hide attributes and make them easy to maintain
+
+
+
+49 ->     Hello!
+
+
+
+50 ->     5
+	  6
